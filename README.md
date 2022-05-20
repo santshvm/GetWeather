@@ -87,7 +87,7 @@ To get the Node server running locally:
 
 
 ## Dependencies 
-* [expressjs]{https://github.com/expressjs/express}:  The server for handling and routing HTTP requests
+* [expressjs](https://github.com/expressjs/express):  The server for handling and routing HTTP requests
 
 ## Application Structure 
 
