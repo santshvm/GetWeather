@@ -81,7 +81,7 @@ To get the Node server running locally:
   node app.js
   ```
   
-* After starting the server, you should get a message - "Server is running on port 3000" 
+* After starting the server, you should get a message - "Server is running on port 3000" and your app should be now running at localhost:3000
 
 <img width="867" alt="Screenshot 2022-05-20 at 1 21 55 PM" src="https://user-images.githubusercontent.com/70855191/169484992-880e7000-0095-443f-b128-49cc862edf68.png">
 
