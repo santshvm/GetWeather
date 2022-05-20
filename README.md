@@ -118,3 +118,7 @@ Santosh Shivam - [Twitter](https://twitter.com/santshvm?ref_src=twsrc%5Egoogle%7
 
 [Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp)
 
+# License
+
+MIT © Santosh Shivam
+
