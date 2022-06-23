@@ -114,9 +114,7 @@ To get the Node server running locally:
 
 Santosh Shivam - [Twitter](https://twitter.com/santshvm?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) | [LinkedIn](https://in.linkedin.com/in/santosh-shivam)
 
-# Acknowledgements
 
-[Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp)
 
 # License
 
